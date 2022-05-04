@@ -1,4 +1,4 @@
-# FYL 0.0.3
+# FYL 0.0.4
 
 purpose
 : recursivly require all derivitives be shared freely on a non shit website
@@ -15,5 +15,5 @@ non shit source
 4. violating this licence revokes any rights you have for this work and releases the child work as CC0 with FYL
 5. child work must must early, clearly, and promonently describe share this licence and a mantained working non shit source to get child work
 6. grant forever permision to anyone to freely redistirbute child work unmodified in its entiriety
-7. no escaping FYL and any dissagreements / clarifications are decided by lizelive
+7. no escaping FYL and any dissagreements / clarifications are decided by lizelive and are binding
 8. don't be a dick. if you are a dick you agree to pay someone of lizelive's choice to legal this licence and agree to new version retroactively
